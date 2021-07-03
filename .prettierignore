@@ -1,0 +1,22 @@
+# Ignore artifacts:
+.expo
+.expo-shared
+node_modules
+assets
+# build
+# public
+# coverage
+
+## file extensions
+*.*
+!*.css
+!*.scss
+!*.js
+!*.json
+!*.jsx
+!*.less
+!*.md
+!*.mdx
+!*.ts
+!*.tsx
+!*.yml
